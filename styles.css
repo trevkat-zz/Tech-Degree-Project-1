@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid rgb(0, 0, 0);
   transition: all .3s;
 }
 header .profile-image:hover {
@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #fd5a1e;
 }
 
 ul.skills {
